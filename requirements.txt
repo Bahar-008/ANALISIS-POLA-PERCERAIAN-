@@ -5,3 +5,4 @@ plotly
 dash
 dash-bootstrap-components
 scikit-learn
+matplotlib
